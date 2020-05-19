@@ -1,5 +1,10 @@
 # Milestone-3: Grid game
 
+# Team
+1. Keerti Priya
+2. Budige Karthik
+3. Srinath Ellakari
+
 ## Learning Competencies
 At the end of this milestone you will learn
  - Breaking down the problem
